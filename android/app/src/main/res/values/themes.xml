@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SIGID" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/oro</item>
+        <item name="colorPrimaryVariant">@color/oro_oscuro</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/gris_medio</item>
+        <item name="colorSecondaryVariant">@color/gris_oscuro</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/oro</item>
+    </style>
+</resources>

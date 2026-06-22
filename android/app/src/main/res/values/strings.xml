@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIGID Logística</string>
+    <string name="title_catalogo">Catálogo</string>
+    <string name="title_carrito">Carrito</string>
+    <string name="title_logistica">Logística</string>
+    <string name="title_admin">Administración</string>
+    
+    <!-- Login -->
+    <string name="login_title">Autenticación</string>
+    <string name="login_subtitle">Portal de Seguridad Corporativa</string>
+    <string name="email_hint">Correo Electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">ACCEDER AL SISTEMA</string>
+    
+    <!-- Productos -->
+    <string name="precio_neto">PRECIO NETO</string>
+    <string name="adquirir">ADQUIRIR</string>
+    <string name="stock_disponible">Stock: %1$d unidades</string>
+    
+    <!-- Carrito -->
+    <string name="carrito_vacio">El carrito está vacío</string>
+    <string name="total">Total:</string>
+    <string name="procesar_despacho">PROCESAR DESPACHO</string>
+    
+    <!-- Mensajes -->
+    <string name="producto_agregado">Producto agregado al carrito</string>
+    <string name="error_conexion">Error de conexión</string>
+    <string name="login_exitoso">Login exitoso</string>
+    <string name="credenciales_invalidas">Credenciales inválidas</string>
+</resources>

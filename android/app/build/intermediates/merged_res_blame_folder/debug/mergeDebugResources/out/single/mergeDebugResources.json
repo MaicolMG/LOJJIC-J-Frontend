@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "com.sigid.logistica.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sigid.logistica.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.sigid.logistica.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sigid.logistica.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_fragment_products.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_item_product_selection.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\item_product_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_fragment_checkout.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_fragment_orders.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\fragment_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.sigid.logistica.app-debug-50:/layout_fragment_checkout.xml.flat",
+        "source": "com.sigid.logistica.app-main-52:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-debug-50:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\8.13\\com.sigid.logistica.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.sigid.logistica.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sigid.logistica.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sigid.logistica.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sigid.logistica.app-main-52:/drawable/ic_launcher_foreground.xml"
+    }
+]

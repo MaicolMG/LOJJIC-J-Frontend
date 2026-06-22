@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_catalogo"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Catálogo" />
+
+    <item
+        android:id="@+id/navigation_carrito"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Carrito" />
+
+    <item
+        android:id="@+id/navigation_logistica"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="Logística" />
+
+    <item
+        android:id="@+id/navigation_admin"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Admin" />
+
+</menu>

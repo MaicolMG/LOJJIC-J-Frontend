@@ -29,6 +29,37 @@ Para elevar la calidad del sistema, se recomienda considerar los siguientes punt
 4.  **UI Framework**: Implementar **Tailwind CSS** o **Material UI** para un diseño profesional, responsivo y consistente con las necesidades logísticas.
 5.  **Consumo de API**: Utilizar **TanStack Query (React Query)** para el manejo de peticiones al backend, lo que facilitará el almacenamiento en caché y la sincronización de datos.
 
+## 🔐 Usuarios y Contraseñas de Prueba
+
+Para acceder al sistema, utiliza las siguientes credenciales según el rol que desees probar:
+
+### 🗝️ Master (Acceso Total)
+- **Email:** `master@lojjic.com`
+- **Contraseña:** `MASTER2026#`
+- **Permisos:** Acceso completo a todos los paneles (Admin + Empleado + Master)
+- **Portal:** Usar el portal de **ADMINISTRACIÓN**
+- **MFA:** Requiere código de verificación `123456`
+
+### 👔 Administrador
+- **Email:** `admin@lojjic.com`
+- **Contraseña:** `ADSO2026`
+- **Permisos:** Gestión completa del sistema, asignación de órdenes, control de usuarios
+- **Portal:** Usar el portal de **ADMINISTRACIÓN**
+- **MFA:** Requiere código de verificación `123456`
+
+### 👷 Empleado de Logística
+- **Email:** `empleado@lojjic.com`
+- **Contraseña:** `Empleado2026`
+- **Permisos:** Operaciones de bodega, gestión de inventario, despachos
+- **Portal:** Usar el portal de **LOGÍSTICA**
+- **MFA:** No requiere
+
+> **Nota Importante:** 
+> - Los usuarios Admin y Master requieren autenticación de dos factores (MFA) con el código `123456`
+> - Asegúrate de usar el portal correcto según tu rol (Administración o Logística)
+> - Estos usuarios son para entorno de desarrollo y pruebas
+> - En producción, se deben utilizar contraseñas seguras y gestión adecuada de autenticación
+
 ## 📋 Requisitos Previos
 
 *   Node.js (versión LTS recomendada)

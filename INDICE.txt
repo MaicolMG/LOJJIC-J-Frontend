@@ -1,0 +1,148 @@
+================================================================================
+    ÍNDICE DEL PROYECTO - SISTEMA DE GESTIÓN DE INVENTARIO Y DESPACHO (SIGID)
+================================================================================
+
+TÍTULO DEL PROYECTO:
+    Sistema de Gestión de Inventario y Despacho (SIGID)
+    Logística de Tecnología - LOJJIC-J
+
+PROGRAMA DE FORMACIÓN:
+    Análisis y Desarrollo de Software (ADSO) - Virtual
+
+FICHA:
+    3134555
+
+FASE:
+    Evaluación
+
+INTEGRANTES DEL GRUPO:
+    1. Maicol Andres Matallana Garcia
+    2. [Agregar Nombre Completo Aprendiz 2]
+    3. [Agregar Nombre Completo Aprendiz 3]
+    4. [Agregar Nombre Completo Aprendiz 4]
+    5. [Agregar Nombre Completo Aprendiz 5]
+
+INSTRUCTOR TÉCNICO:
+    [Nombre del Instructor]
+
+CENTRO DE FORMACIÓN:
+    SENA - Centro Agropecuario - Regional Boyacá
+
+AÑO:
+    2024-2026
+
+================================================================================
+ESTRUCTURA DEL REPOSITORIO
+================================================================================
+
+📁 SIGID - Raíz del Proyecto
+│
+├── 📄 INDICE.txt (Este archivo)
+│
+├── 📁 codigo_fuente/
+│   ├── 📁 backend/          (API REST - Node.js + Express)
+│   ├── 📁 frontend/         (Interfaz Web - React.js)
+│   ├── 📁 android/          (Aplicación Móvil - Kotlin)
+│   └── 📁 scripts_bd/       (Scripts de Base de Datos - MongoDB)
+│
+├── 📁 documentos/
+│   ├── 📄 Informe_General_Sistema.pdf
+│   ├── 📄 Presentacion_Proyecto_SIGID.pptx
+│   ├── 📄 Video_Promocional.mp4
+│   │
+│   ├── 📁 entregables/
+│   │   ├── 📄 01_Planteamiento_Problema.pdf
+│   │   ├── 📄 02_Especificacion_Requisitos_Software.pdf
+│   │   ├── 📄 03_Prototipado_Sistema.pdf
+│   │   ├── 📄 04_Plan_Pruebas.pdf
+│   │   ├── 📄 05_Manual_Usuario.pdf
+│   │   ├── 📄 06_Manual_Tecnico.pdf
+│   │   └── 📄 07_Manual_Configuracion_BD.pdf
+│   │
+│   └── 📁 anexos/
+│       ├── 📄 Canvas_Proyecto.pdf
+│       │
+│       ├── 📁 actas/
+│       │   ├── 📁 sprint_01/
+│       │   ├── 📁 sprint_02/
+│       │   ├── 📁 sprint_03/
+│       │   └── 📁 sprint_04/
+│       │
+│       ├── 📁 actividades/
+│       │   └── (Evidencias de actividades complementarias)
+│       │
+│       ├── 📁 documentos_proceso/
+│       │   ├── 📁 historias_usuario/
+│       │   └── 📁 casos_prueba/
+│       │
+│       └── 📁 entrevistas/
+│           └── (Entrevistas, encuestas y documentos de soporte)
+│
+└── 📁 instalador/
+    ├── 📄 SIGID_v1.0.apk      (Aplicación Android)
+    ├── 📄 package.json         (Dependencias Frontend)
+    ├── 📄 package.json         (Dependencias Backend)
+    └── 📄 Guia_Instalacion.pdf
+
+================================================================================
+DESCRIPCIÓN DEL PROYECTO
+================================================================================
+
+SIGID es una solución integral diseñada para optimizar la logística de activos
+tecnológicos. El sistema facilita los procesos de picking y packing, asegurando
+un control preciso del inventario y una gestión eficiente de los despachos en
+entornos empresariales.
+
+TECNOLOGÍAS UTILIZADAS:
+    - Frontend: React.js, CSS3 (Glassmorphism), React Router
+    - Backend: Node.js, Express.js
+    - Base de Datos: MongoDB Atlas
+    - Mobile: Android (Kotlin), Material Design 3
+    - Control de Versiones: Git
+    - Gestión de Proyecto: Scrum, Jira
+
+FUNCIONALIDADES PRINCIPALES:
+    ✓ Gestión de Activos Tecnológicos
+    ✓ Control de Inventario en Tiempo Real
+    ✓ Generación Automática de Guías de Despacho (PDF)
+    ✓ Sistema de Autenticación Corporativa (MFA)
+    ✓ Panel Administrativo con Métricas
+    ✓ Panel Logístico para Operadores
+    ✓ Aplicación Móvil Android Nativa
+
+ESTADÍSTICAS DEL CÓDIGO:
+    - Total líneas de código funcional: +1,400
+    - Arquitectura: Cliente-Servidor (Decoupled Architecture)
+    - Versión actual: 2.4.0-STABLE
+    - Build: 2026.04.29
+
+================================================================================
+COMPETENCIAS DESARROLLADAS
+================================================================================
+
+COMPETENCIA: 38369
+    Controlar la calidad del servicio de software de acuerdo con los
+    estándares técnicos
+
+RESULTADOS DE APRENDIZAJE:
+    593146-01: Incorporar actividades de aseguramiento de la calidad del
+               software de acuerdo con estándares de la industria
+
+    593144-02: Verificar la calidad del software de acuerdo con las
+               prácticas asociadas en los procesos de desarrollo
+
+    593145-03: Realizar actividades de mejora de la calidad del software
+               a partir de los resultados de la verificación
+
+================================================================================
+CONTACTO Y REPOSITORIO
+================================================================================
+
+Repositorio GitHub: [URL del repositorio]
+Correo de contacto: [email del grupo]
+Drive del proyecto: [URL del Google Drive]
+
+================================================================================
+Última actualización: [Fecha actual]
+Proyecto entregable para el programa de formación ADSO - SENA 2024-2026
+================================================================================

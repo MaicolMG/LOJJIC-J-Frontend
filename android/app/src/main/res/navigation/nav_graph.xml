@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_catalogo">
+
+    <fragment
+        android:id="@+id/navigation_catalogo"
+        android:name="com.sigid.logistica.ui.fragments.CatalogoFragment"
+        android:label="Catálogo" />
+
+    <fragment
+        android:id="@+id/navigation_carrito"
+        android:name="com.sigid.logistica.ui.fragments.CarritoFragment"
+        android:label="Carrito" />
+
+    <fragment
+        android:id="@+id/navigation_logistica"
+        android:name="com.sigid.logistica.ui.fragments.LogisticaFragment"
+        android:label="Logística" />
+
+    <fragment
+        android:id="@+id/navigation_admin"
+        android:name="com.sigid.logistica.ui.fragments.AdminFragment"
+        android:label="Administración" />
+
+</navigation>
